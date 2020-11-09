@@ -7,12 +7,12 @@ To use the sample, complete the steps in the following order:
 
 In your SAC tenant:
 - Import the sample .tgz file.
-- In the sample connection, replace the tenant ID in the Host URL with the tenant ID for your intelligent insights option.
-- In each sample model file, select the data source with the name "P_CV_<model_name>".
+- Modify the sample connection by replacing the tenant ID in the Host URL with the tenant ID for your intelligent insights option.
+- Modify each sample model file by selecting the data source with the name **P_CV_<model_name>**.
 
 In the SAP Fiori Launchpad window for your intelligent insights option:
-- Open the Manage Analytic Stories app and import the sample story by choosing Create > Add existing story.
-- Open the Logistics Execution Insights app. Click the Settings icon, switch on Display Story, and select the story you just imported. You can then monitor your own logistics execution data in the dashboard.
+- Open the **Manage Analytic Stories** app and import the sample story by choosing **Create > Add existing story**.
+- Open the **Logistics Execution Insights** app. Click the settings icon, switch on **Display Story**, and select the story you just imported. You can then monitor your own logistics execution data in the dashboard.
 
 ## Requirements
 The sample will run if you have the following authorizations:
