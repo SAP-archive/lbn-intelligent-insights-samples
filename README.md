@@ -16,7 +16,7 @@ To use the sample story, complete the steps in the following order:
 
 ## Requirements
 The sample will run if you have the following authorizations:
-- *System Owner*, *BI Admin*, or *Application Creator* roles in your SAC tenant
+- *System Owner* or *BI Admin* role in your SAC tenant
 - *ExecutionInsightsProcessTemplate* and *ManageAnalyticStoriesEditTemplate* roles in your LBN tenant for intelligent insights option
 
 ## Download and Installation
