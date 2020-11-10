@@ -1,9 +1,9 @@
-# Sample for Using SAP Logistics Business Network, Intelligent Insights Option
+# Sample Analytic Story for Using SAP Logistics Business Network, Intelligent Insights Option
 
 ## Description
-This repository contains a sample that helps you get started with the intelligent insights option for SAP Logistics Business Network. The sample contains an anlytic story and its dependent models that were predefined in SAP Analytics Cloud. You can import the sample into your SAC tenant and start using it for the intelligent insights option.
+This repository contains a sample analytic story that helps you get started with the intelligent insights option for SAP Logistics Business Network. The story, as well as its dependent models were predefined in SAP Analytics Cloud. You can import the story into your own SAC tenant and start using it for the intelligent insights option.
 
-To use the sample, complete the steps in the following order:
+To use the sample story, complete the steps in the following order:
 
 ###### In your SAC tenant:
 1. Import the sample .tgz file.
@@ -20,7 +20,7 @@ The sample will run if you have the following authorizations:
 - *ExecutionInsightsProcessTemplate* and *ManageAnalyticStoriesEditTemplate* roles in your LBN tenant for intelligent insights option
 
 ## Download and Installation
-The sample codes supplied in this repository are for reference use.  
+The sample story supplied in this repository is for reference use.  
 
 To get the sample codes:
 
