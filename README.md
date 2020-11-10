@@ -7,8 +7,8 @@ To use the sample story, complete the steps in the following order:
 
 ###### In your SAC tenant:
 1. Import the sample .tgz file.
-1. Modify the sample connection by replacing the tenant ID in the Host URL with the tenant ID for your intelligent insights option.
-1. Modify each sample model file by selecting the data source with the name *P_CV_<model_name>*.
+1. Modify the sample connection by replacing the tenant ID in the Host URL with the tenant ID of your intelligent insights option.
+1. Change the data source for each sample model file by selecting the data source with the name *P_CV_<model_name>*.
 
 ###### In the SAP Fiori Launchpad window for your intelligent insights option:
 1. Open the *Manage Analytic Stories* app and import the sample story by choosing _Create > Add existing story_.
