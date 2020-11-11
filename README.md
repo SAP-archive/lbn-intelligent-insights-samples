@@ -1,9 +1,12 @@
-# Sample Analytic Story for SAP Logistics Business Network, Intelligent Insights Option
+# Sample Analytics Story for SAP Logistics Business Network, Intelligent Insights Option
 
 ## Description
 This repository contains a sample analytic story that helps you get started with the intelligent insights option for SAP Logistics Business Network. The story, as well as its dependent models were predefined in SAP Analytics Cloud. You can import the story into your own SAC tenant and start using it for the intelligent insights option.
 
 To use the sample story, complete the steps in the following order:
+
+###### In this repo:
+* Under *Releases*, select *Sample*, and download the *FPA_EXPORT_T_14_SAPLBNII.tgz* file.
 
 ###### In your SAC tenant:
 1. Import the sample .tgz file.
