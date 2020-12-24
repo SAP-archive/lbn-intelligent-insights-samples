@@ -6,7 +6,7 @@ This repository contains a sample analytic story that helps you get started with
 To use the sample story, complete the steps in the following order:
 
 ###### In this repo:
-* Under *Releases*, select *Sample*, and download the *FPA_EXPORT_T_14_SAPLBNII.tgz* file.
+* Under *Releases*, select *Sample*, and download the *FPA_EXPORT_T_2_SAPLBNII.tgz* file.
 
 ###### In your SAC tenant:
 1. Import the sample .tgz file.
