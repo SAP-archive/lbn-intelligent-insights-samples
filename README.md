@@ -1,3 +1,4 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/lbn-intelligent-insights-samples)](https://api.reuse.software/info/github.com/SAP-samples/lbn-intelligent-insights-samples)
 # Sample Analytics Story for SAP Logistics Business Network, Intelligent Insights Option
 
 ## Description
