@@ -3,12 +3,12 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/lbn-intelligent-insights-samples)](https://api.reuse.software/info/github.com/SAP-samples/lbn-intelligent-insights-samples)
 
 ## Description
-This repository contains a sample analytic story that helps you get started with the intelligent insights option for SAP Logistics Business Network. The story, as well as its dependent models were predefined in SAP Analytics Cloud. You can import the story into your own SAC tenant and start using it for the intelligent insights option.
+This repository contains a sample analytics story that help you get started with the intelligent insights option for SAP Logistics Business Network. The story, as well as its dependent models were predefined in SAP Analytics Cloud. You can import the story into your own SAC tenant and start using it for the intelligent insights option.
 
 To use the sample story, complete the steps in the following order:
 
 ###### In this repo:
-* Under *Releases*, select *Sample*, and download the *FPA_EXPORT_T_2_SAPLBNII.tgz* file.
+* Under *Releases*, select *Samples*, and download the *FPA_EXPORT_T_2_SAPLBNII_for_sac_<sac_version>.tgz* file that matches your SAC version.
 
 ###### In your SAC tenant:
 1. Import the sample .tgz file.
