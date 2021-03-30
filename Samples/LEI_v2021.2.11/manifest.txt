@@ -1,0 +1,21 @@
+version = 15
+export_type = 1
+export_type_as_string = delivery unit
+releasedOnly = false
+delivery_unit = FPA_EXPORT_T_2_LEI_2103_933313027657868FF02CAC3869B754FF
+vendor = UNDEFINED
+delivery_unit_version = 0
+delivery_unit_responsible = 
+version_sp = 0
+version_patch = 0
+ppmsID = 
+caption = 
+last_update = 2021-03-30 07:59:35.4120000
+sp_ppms_id = 
+ach = 
+du time frame 
+tstFrom = 1998-08-01 07:00:00.0000000
+tstTo = 2021-03-30 07:59:42.7130000
+determineXrefs = false
+time of export = 2021-03-30 07:59:42.7150000
+source system = AAA

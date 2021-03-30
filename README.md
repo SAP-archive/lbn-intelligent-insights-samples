@@ -1,31 +1,27 @@
-# Sample Analytics Story for SAP Logistics Business Network, Intelligent Insights Option
+# Analytics Samples for SAP Logistics Business Network, Intelligent Insights Option
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/lbn-intelligent-insights-samples)](https://api.reuse.software/info/github.com/SAP-samples/lbn-intelligent-insights-samples)
 
 ## Description
-This repository contains a sample analytics story that help you get started with the intelligent insights option for SAP Logistics Business Network. The story, as well as its dependent models were predefined in SAP Analytics Cloud. You can import the story into your own SAC tenant and start using it for the intelligent insights option.
+This repository contains analytics samples that help you get started with the intelligent insights option for SAP Logistics Business Network. The samples were predefined in SAP Analytics Cloud. You can import them into your own SAP Analytics Cloud tenant and use them with the intelligent insights option.
 
-To use the sample story, complete the steps in the following order:
+To use the samples, refer to the documentation below:
 
-###### In this repo:
-* Under *Releases*, select *Samples*, and download the *FPA_EXPORT_T_2_SAPLBNII_for_sac_<sac_version>.tgz* file that matches your SAC version.
+* [Analytic Story: Logistics Execution Insights](https://help.sap.com/viewer/2a5a897d953d44318834c982451a37f6/LBN/en-US/8811e0d5fcdf461597dd1a42cbdb3f38.html)
 
-###### In your SAC tenant:
-1. Import the sample .tgz file.
-1. Modify the sample connection by replacing the tenant ID in the Host URL with the tenant ID of your intelligent insights option.
-1. Change the data source for each sample model file by selecting the data source with the name *P_CV_<model_name>*.
+  This sample story has been published as a standard business content. You're recommended to import the story from the content network in SAP Analytics Cloud. The files in this repo are provided as a backup.
 
-###### In the SAP Fiori Launchpad window for your intelligent insights option:
-1. Open the *Manage Analytic Stories* app and import the sample story by choosing _Create > Add existing story_.
-1. Open the *Logistics Execution Insights* app. Click the settings icon, switch on _Display Story_, and select the story you just imported. You can then monitor your own logistics execution data in the dashboard.
+* [Analytic Application: Logistics Performance Insights](https://help.sap.com/viewer/2a5a897d953d44318834c982451a37f6/LBN/en-US/05d12b9d111e4583aebc2b1492604b1c.html)
+
+  This sample application is only available in this repo. To download, under *Releases*, select *Samples*, and download the *LogisticsPerformanceInsights_for_sac_version_number.tgz* file that best matches the version of your SAP Analytics Cloud.
 
 ## Requirements
-The sample will run if you have the following authorizations:
-- *System Owner* or *BI Admin* role in your SAC tenant
-- *ExecutionInsightsProcessTemplate* and *ManageAnalyticStoriesEditTemplate* roles in your LBN tenant for intelligent insights option
+The samples will run if you have the following authorizations:
+- *System Owner* or *BI Admin* role in your SAP Analytics Cloud tenant
+- *ExecutionInsightsProcessTemplate* and *ManageAnalyticStoriesEditTemplate* roles in intelligent insights for using the *Manage Analytic Stories* and *Logistics Execution Insights* apps
 
 ## Download and Installation
-The sample story supplied in this repository is for reference use.  
+The samples supplied in this repository is for reference use.  
 
 To get the sample codes:
 
