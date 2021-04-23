@@ -1,0 +1,21 @@
+version = 15
+export_type = 1
+export_type_as_string = delivery unit
+releasedOnly = false
+delivery_unit = FPA_EXPORT_T_18_LPI_2105_2021_9_0_5F9C1306EC2A7B0A7C0523DBA6AB585E
+vendor = UNDEFINED
+delivery_unit_version = 0
+delivery_unit_responsible = 
+version_sp = 0
+version_patch = 0
+ppmsID = 
+caption = 
+last_update = 2021-04-23 09:12:16.3950000
+sp_ppms_id = 
+ach = 
+du time frame 
+tstFrom = 1998-08-01 07:00:00.0000000
+tstTo = 2021-04-23 09:12:25.8820000
+determineXrefs = false
+time of export = 2021-04-23 09:12:25.8850000
+source system = AAA
