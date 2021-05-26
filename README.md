@@ -9,7 +9,7 @@ To use the samples, refer to [Predefined Stories](https://help.sap.com/viewer/2a
 
 The sample stories have been published as a standard business content. You're recommended to import the stories from the content network in SAP Analytics Cloud. 
   
-The files in this repo are provided as a backup. To download, under *Releases*, select *Samples*, and download the .tgz files that best matches the version of your SAP Analytics Cloud.
+The files in this repo are provided as a backup. To download, under *Releases*, select *Samples*, and download the .tgz files that best match the version of your SAP Analytics Cloud.
 
 ## Requirements
 The samples will run if you have the following authorizations:
