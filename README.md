@@ -5,13 +5,11 @@
 ## Description
 This repository contains analytics samples that can be used by the intelligent insights option for SAP Logistics Business Network. The samples were predefined in SAP Analytics Cloud. You can import them into your own SAP Analytics Cloud tenant and use them with the intelligent insights option.
 
-To use the samples, refer to the documentation below:
+To use the samples, refer to [Predefined Stories](https://help.sap.com/viewer/2a5a897d953d44318834c982451a37f6/LBN/en-US/8811e0d5fcdf461597dd1a42cbdb3f38.html).
 
-* [Predefined Stories](https://help.sap.com/viewer/2a5a897d953d44318834c982451a37f6/LBN/en-US/8811e0d5fcdf461597dd1a42cbdb3f38.html)
-
-  The sample stories have been published as a standard business content. You're recommended to import the stories from the content network in SAP Analytics Cloud. 
+The sample stories have been published as a standard business content. You're recommended to import the stories from the content network in SAP Analytics Cloud. 
   
-  The files in this repo are provided as a backup. To download, under *Releases*, select *Samples*, and download the .tgz files that best matches the version of your SAP Analytics Cloud.
+The files in this repo are provided as a backup. To download, under *Releases*, select *Samples*, and download the .tgz files that best matches the version of your SAP Analytics Cloud.
 
 ## Requirements
 The samples will run if you have the following authorizations:
